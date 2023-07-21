@@ -1,11 +1,43 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+  "users": [
+     {
+      "username": "admin",
+      "email": "admin@email.com",
+      "firstName": "super",
+      "lastName": "user",
+      "contact": "+0239993928",
+      "activities": [],
+      "experience": [],
+      "eductaion": [],
+      "skills": [],
+      "recommendations": [],
+      "languages": [],
+      "organizations": [],
+      "interest": [],
+      "title": "Web Developer",
+      "password": "admin",
+      "following": [],
+      "followers": []
+     },
+     {
+      "username": "testuser01",
+      "email": "testuser01@email.com",
+      "firstName": "test",
+      "lastName": "user",
+      "contact": "+929988772",
+      "activities": [],
+      "experience": [],
+      "eductaion": [],
+      "skills": [],
+      "recommendations": [],
+      "languages": [],
+      "organizations": [],
+      "interest": [],
+      "title": "Graphic Designer",
+      "password": "admin",
+      "following": [],
+      "followers": []
+     }
   ],
-  "profile": {
-    "name": "junaidfarooqi"
-  }
+  "posts": []
 }
