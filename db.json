@@ -1,6 +1,7 @@
 {
   "users": [
      {
+       "id": 1,
       "username": "admin",
       "email": "admin@email.com",
       "firstName": "super",
@@ -20,6 +21,7 @@
       "followers": []
      },
      {
+       "id": 2,
       "username": "testuser01",
       "email": "testuser01@email.com",
       "firstName": "test",
